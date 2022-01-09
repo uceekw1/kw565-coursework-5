@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj.d"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj"
+  "CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj.d"
+  "release/kw565-coursework-5.elf"
+  "release/kw565-coursework-5.elf.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang ASM C)
+  include(CMakeFiles/kw565-coursework-5.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
