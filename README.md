@@ -18,7 +18,7 @@ This project is to build a game system that mainly includes a hand motion contro
 - **README.md<br />** 
     file explaining this project and repository structure.<br />
 - **source<br />** 
-    folder containing main source files of this project.<br />
+    folder containing main source files of this project.The main.c and hardareinit.c files are the major work. While the other c files are referenced from Freescale's spi_loop_back, I2C and GPIO example projects. <br />
 - **tools<br />** 
     folder containing armgcc toolchain files.<br />
 
