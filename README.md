@@ -19,11 +19,11 @@ This project is to build a game system that mainly includes a hand motion contro
 1. Install armgcc. <br />
 2. Install cmake. <br />
 3. Download this repository from github to local computer. <br />
-4. Set ARMGCC_DIR by executing '''export ARMGCC_DIR=/Applications/ARM'''; "/Applications/ARM" should be modified to your own armgcc folder. <br />
-5. Change current working folder to /kw565-coursework-5/armgcc; Execute "./build_all.sh" to rebuild all executable files. The generated binary files /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin or /kw565-coursework-5/armgcc/release/kw565-coursework-5.bin could be loaded onto hardware using JLinkExe later.
+4. Set ARMGCC_DIR by executing ```export ARMGCC_DIR=/Applications/ARM```"/Applications/ARM" should be modified to your own armgcc folder. <br />
+5. Change current working folder to /kw565-coursework-5/armgcc; Execute ```./build_all.sh`` to rebuild all executable files. The generated binary files /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin or /kw565-coursework-5/armgcc/release/kw565-coursework-5.bin could be loaded onto hardware using JLinkExe later.
 6. Connect MKL03Z board to PC through USB cable. <br />
-7. Open JLinkExe in another terminal window by executing "/Applications/SEGGER/JLink/JLinkExe -device MKL03Z32XXX4 -if SWD -speed 100000". The path to JLinkExe should be modified according to your local JLinkExe installation path. <br />
-8. Execute 'r' to reset MCU in JLinkExe. <br />
-9. Execute "loadfile /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin" to load binary into hardware. Again, the binary file path need to be modified according to your local path. <br />
+7. Open JLinkExe in another terminal window by executing ```/Applications/SEGGER/JLink/JLinkExe -device MKL03Z32XXX4 -if SWD -speed 100000```. The path to JLinkExe should be modified according to your local JLinkExe installation path. <br />
+8. Execute ```r``` to reset MCU in JLinkExe. <br />
+9. Execute ```loadfile /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin``` to load binary into hardware. Again, the binary file path need to be modified according to your local path. <br />
 10. Execute 'r' to reset MCU again in JLinkExe. <br />
-11. Execute 'go' to run application. Now you should see red heart falling down from the top of OLED screen. Control the arrow on screen by moving FRDM-KL03Z board and shot arrow by pressing switch 3 on board. Have fun!
+11. Execute ```go``` to run application. Now you should see red heart falling down from the top of OLED screen. Control the arrow on screen by moving FRDM-KL03Z board and shot arrow by pressing switch 3 on board. Have fun!
