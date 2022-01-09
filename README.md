@@ -1,8 +1,8 @@
 # kw565-coursework-5
-This is the assignment 5 of Cambridge Uni module 4B25 Embedded Systems for the IoT
-CRSid: kw565
-Name: Kui Wang
-College: UCL
+This is the assignment 5 of Cambridge Uni module 4B25 Embedded Systems for the IoT <br />
+CRSid: kw565 <br />
+Name: Kui Wang <br />
+College: UCL <br />
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Project description:
