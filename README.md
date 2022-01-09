@@ -4,7 +4,7 @@ CRSid: kw565 <br />
 Name: Kui Wang <br />
 College: UCL <br />
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br />
+<center>//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br />
 Project description:
 This project is to build a game system that mainly includes a hand motion controller, an OLED display. The hand motion controller is implemented by <br />CortexM0+ MCU reading data from accellerometer to detect hand motion. The hand motion data is then used to direct a blue arrow shotting red heart in a simple <br />game. The game is displayed on OLED screen.
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br />
@@ -25,6 +25,6 @@ Instructions to re-build this project: <br />
 6. Connect MKL03Z board to PC through USB cable. <br />
 7. Open JLinkExe in another terminal window by executing "/Applications/SEGGER/JLink/JLinkExe -device MKL03Z32XXX4 -if SWD -speed 100000". The path to <br />JLinkExe should be modified according to your local JLinkExe installation path. <br />
 8. Execute 'r' to reset MCU in JLinkExe. <br />
-9. Execute "loadfile /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin" to load binary into hardware. Again, the binary file path need to be <br />modified according to your local path. <br />
+9. Execute "loadfile /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin" to load binary into hardware. Again, the binary file path need to be <br />modified according to your local path. <br /></center>
 10. Execute 'r' to reset MCU again in JLinkExe. <br />
 11. Execute 'go' to run application. Now you should see red heart falling down from the top of OLED screen. Control the arrow on screen by moving <br />FRDM-KL03Z board and shot arrow by pressing switch 3 on board. Have fun!
