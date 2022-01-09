@@ -8,18 +8,18 @@ College: UCL <br />**
 This project is to build a game system that mainly includes a hand motion controller, an OLED display. The hand motion controller is implemented by CortexM0+ MCU reading data from accellerometer to detect hand motion. The hand motion data is then used to direct a blue arrow shotting red heart in a simple game. The game is displayed on OLED screen.
 
 ## Repository Structure
-- **kw565-coursework-5
-  - **armgcc<br />** 
+**kw565-coursework-5**
+- **armgcc<br />** 
     folder containing scripts to build this project and binary file ready to be loaded on hardware.<br />
-  - **lib<br />** 
+- **lib<br />** 
     folder containing platform library in both "debug" and "release" sub-folders.<br />
-  - **platform<br />** 
+- **platform<br />** 
     folder containing commonly used algorithm and functions for MKL03Z board.<br />
-  - **README.md<br />** 
+- **README.md<br />** 
     file explaining this project and repository structure.<br />
-  - **source<br />** 
+- **source<br />** 
     folder containing main source files of this project.<br />
-  - **tools<br />** 
+- **tools<br />** 
     folder containing armgcc toolchain files.<br />
 
 ## Instructions to Re-build Project:
@@ -27,7 +27,7 @@ This project is to build a game system that mainly includes a hand motion contro
 2. Install cmake. <br />
 3. Download this repository from github to local computer. <br />
 4. Set ARMGCC_DIR by executing ```export ARMGCC_DIR=/Applications/ARM```;"/Applications/ARM" should be modified to your own armgcc folder. <br />
-5. Change current working folder to /kw565-coursework-5/armgcc; Execute ```./build_all.sh`` to rebuild all executable files. The generated binary files /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin or /kw565-coursework-5/armgcc/release/kw565-coursework-5.bin could be loaded onto hardware using JLinkExe later.
+5. Change current working folder to /kw565-coursework-5/armgcc; Execute ```./build_all.sh``` to rebuild all executable files. The generated binary files /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin or /kw565-coursework-5/armgcc/release/kw565-coursework-5.bin could be loaded onto hardware using JLinkExe later.
 6. Connect MKL03Z board to PC through USB cable. <br />
 7. Open JLinkExe in another terminal window by executing ```/Applications/SEGGER/JLink/JLinkExe -device MKL03Z32XXX4 -if SWD -speed 100000```. The path to JLinkExe should be modified according to your local JLinkExe installation path. <br />
 8. Execute ```r``` to reset MCU in JLinkExe. <br />
