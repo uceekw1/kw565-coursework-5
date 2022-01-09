@@ -6,6 +6,7 @@ College: UCL <br />**
 
 ## Project Description
 This project is to build a game system that mainly includes a hand motion controller, an OLED display. The hand motion controller is implemented by CortexM0+ MCU reading data from accellerometer to detect hand motion. The hand motion data is then used to direct a blue arrow shotting red heart in a simple game. The game is displayed on OLED screen.
+Note. There are still some image processing bugs in the game. It needs more time to test for a perfect display. In additions, the memory space is nearly full, therefore, marks in the game is not implemented in this version. 
 
 ## Repository Structure
 **kw565-coursework-5**
