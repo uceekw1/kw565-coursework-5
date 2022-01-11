@@ -28,7 +28,7 @@ Note. There are still some image processing bugs in the game. It needs more time
 2. Install cmake. <br />
 3. Download this repository from github to local computer. <br />
 4. Set ARMGCC_DIR by executing ```export ARMGCC_DIR=/Applications/ARM```;"/Applications/ARM" should be modified to your own armgcc folder. <br />
-5. Change current working folder to /kw565-coursework-5/armgcc; Execute ```./build_all.sh``` to rebuild all executable files. The generated binary files /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin or /kw565-coursework-5/armgcc/release/kw565-coursework-5.bin could be loaded onto hardware using JLinkExe later.
+5. Change current working folder to repository subfolder /kw565-coursework-5/armgcc; Execute ```./build_all.sh``` to rebuild all executable files. The generated binary files /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin or /kw565-coursework-5/armgcc/release/kw565-coursework-5.bin could be loaded onto hardware using JLinkExe later.
 6. Connect MKL03Z board to PC through USB cable. <br />
 7. Open JLinkExe in another terminal window by executing ```/Applications/SEGGER/JLink/JLinkExe -device MKL03Z32XXX4 -if SWD -speed 100000```. The path to JLinkExe should be modified according to your local JLinkExe installation path. <br />
 8. Execute ```r``` to reset MCU in JLinkExe. <br />
