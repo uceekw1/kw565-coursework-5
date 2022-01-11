@@ -22,6 +22,8 @@ Note. There are still some image processing bugs in the game. It needs more time
     folder containing main source files of this project.The main.c and hardareinit.c files are the major work. While the other c files are referenced from Freescale's spi_loop_back, I2C and GPIO example projects. <br />
 - **tools<br />** 
     folder containing armgcc toolchain files.<br />
+- **kw565-coursework-5.pdf<br />** 
+    Final report for the project.<br />
 
 ## Instructions to Re-build Project:
 1. Install armgcc. <br />
