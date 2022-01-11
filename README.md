@@ -32,6 +32,6 @@ Note. There are still some image processing bugs in the game. It needs more time
 6. Connect MKL03Z board to PC through USB cable. <br />
 7. Open JLinkExe in another terminal window by executing ```/Applications/SEGGER/JLink/JLinkExe -device MKL03Z32XXX4 -if SWD -speed 100000```. The path to JLinkExe should be modified according to your local JLinkExe installation path. <br />
 8. Execute ```r``` to reset MCU in JLinkExe. <br />
-9. Execute ```loadfile /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin``` to load binary into hardware. Again, the binary file path need to be modified according to your local path. <br />
+9. Execute ```loadfile /kw565-coursework-5/armgcc/debug/kw565-coursework-5.bin``` to load binary into hardware. Again, the binary file path need to be modified according to your local path. **The binary file in debug folder is the suggested and tested version, other than the one in release folder** <br />
 10. Execute ```r``` to reset MCU again in JLinkExe. <br />
 11. Execute ```go``` to run application. Now you should see red heart falling down from the top of OLED screen. Control the arrow on screen by moving FRDM-KL03Z board and shot arrow by pressing switch 3 on board. Have fun!
