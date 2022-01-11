@@ -1,4 +1,4 @@
-# Install script for directory: /Users/kuiwang/Documents/Assignment5/armgcc
+# Install script for directory: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/kuiwang/Documents/Assignment5/armgcc/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

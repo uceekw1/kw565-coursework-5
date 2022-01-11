@@ -3,7 +3,7 @@ set(CMAKE_HOST_SYSTEM_NAME "Darwin")
 set(CMAKE_HOST_SYSTEM_VERSION "20.6.0")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")
 
-include("/Users/kuiwang/Documents/Assignment5/tools/cmake_toolchain_files/armgcc.cmake")
+include("/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/tools/cmake_toolchain_files/armgcc.cmake")
 
 set(CMAKE_SYSTEM "Generic")
 set(CMAKE_SYSTEM_NAME "Generic")

@@ -57,10 +57,10 @@ RM = /Users/kuiwang/opt/anaconda3/lib/python3.8/site-packages/cmake/data/CMake.a
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/kuiwang/Documents/Assignment5/armgcc
+CMAKE_SOURCE_DIR = /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/kuiwang/Documents/Assignment5/armgcc
+CMAKE_BINARY_DIR = /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles /Users/kuiwang/Documents/Assignment5/armgcc//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -129,373 +129,373 @@ kw565-coursework-5/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/build
 .PHONY : kw565-coursework-5/fast
 
-Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.obj: Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj
 
-Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.obj: Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj
 
-Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.i: Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i
 
-Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.s: Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s
 
-Users/kuiwang/Documents/Assignment5/platform/devices/startup.obj: Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/startup.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj
 
-Users/kuiwang/Documents/Assignment5/platform/devices/startup.i: Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/startup.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.i
 
-Users/kuiwang/Documents/Assignment5/platform/devices/startup.s: Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/startup.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.s
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.obj: Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.i: Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.i
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.s: Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.s
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.obj: Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.i: Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.i
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.s: Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.s
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.obj: Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.i: Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.i
 
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.s: Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.s
 
-Users/kuiwang/Documents/Assignment5/source/accel.obj: Users/kuiwang/Documents/Assignment5/source/accel.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/accel.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/accel.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/accel.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/accel.i: Users/kuiwang/Documents/Assignment5/source/accel.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/accel.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/accel.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/accel.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.i
 
-Users/kuiwang/Documents/Assignment5/source/accel.s: Users/kuiwang/Documents/Assignment5/source/accel.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/accel.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/accel.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/accel.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.s
 
-Users/kuiwang/Documents/Assignment5/source/board.obj: Users/kuiwang/Documents/Assignment5/source/board.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/board.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/board.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/board.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/board.i: Users/kuiwang/Documents/Assignment5/source/board.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/board.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/board.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/board.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.i
 
-Users/kuiwang/Documents/Assignment5/source/board.s: Users/kuiwang/Documents/Assignment5/source/board.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/board.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/board.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/board.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.s
 
-Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.obj: Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.i: Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.i
 
-Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.s: Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.s
 
-Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.obj: Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.i: Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.i
 
-Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.s: Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.s
 
-Users/kuiwang/Documents/Assignment5/source/fxos_api.obj: Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fxos_api.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/fxos_api.i: Users/kuiwang/Documents/Assignment5/source/fxos_api.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fxos_api.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/fxos_api.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fxos_api.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.i
 
-Users/kuiwang/Documents/Assignment5/source/fxos_api.s: Users/kuiwang/Documents/Assignment5/source/fxos_api.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fxos_api.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/fxos_api.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/fxos_api.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.s
 
-Users/kuiwang/Documents/Assignment5/source/gpio_pins.obj: Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/gpio_pins.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/gpio_pins.i: Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/gpio_pins.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.i
 
-Users/kuiwang/Documents/Assignment5/source/gpio_pins.s: Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/gpio_pins.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.s
 
-Users/kuiwang/Documents/Assignment5/source/hardware_init.obj: Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/hardware_init.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/hardware_init.i: Users/kuiwang/Documents/Assignment5/source/hardware_init.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/hardware_init.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/hardware_init.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/hardware_init.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.i
 
-Users/kuiwang/Documents/Assignment5/source/hardware_init.s: Users/kuiwang/Documents/Assignment5/source/hardware_init.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/hardware_init.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/hardware_init.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/hardware_init.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.s
 
-Users/kuiwang/Documents/Assignment5/source/main.obj: Users/kuiwang/Documents/Assignment5/source/main.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/main.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/main.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/main.i: Users/kuiwang/Documents/Assignment5/source/main.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/main.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/main.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.i
 
-Users/kuiwang/Documents/Assignment5/source/main.s: Users/kuiwang/Documents/Assignment5/source/main.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/main.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/main.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.s
 
-Users/kuiwang/Documents/Assignment5/source/mma8451_api.obj: Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/mma8451_api.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/mma8451_api.i: Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/mma8451_api.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.i
 
-Users/kuiwang/Documents/Assignment5/source/mma8451_api.s: Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/mma8451_api.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.s
 
-Users/kuiwang/Documents/Assignment5/source/pin_mux.obj: Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/pin_mux.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.obj: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.obj
 
 # target to build an object file
-Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj
-.PHONY : Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj
 
-Users/kuiwang/Documents/Assignment5/source/pin_mux.i: Users/kuiwang/Documents/Assignment5/source/pin_mux.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/pin_mux.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.i: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.i
 
 # target to preprocess a source file
-Users/kuiwang/Documents/Assignment5/source/pin_mux.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.i
-.PHONY : Users/kuiwang/Documents/Assignment5/source/pin_mux.c.i
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.i
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.i
 
-Users/kuiwang/Documents/Assignment5/source/pin_mux.s: Users/kuiwang/Documents/Assignment5/source/pin_mux.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/pin_mux.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.s: Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.s
 
 # target to generate assembly for a file
-Users/kuiwang/Documents/Assignment5/source/pin_mux.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.s
-.PHONY : Users/kuiwang/Documents/Assignment5/source/pin_mux.c.s
+Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kw565-coursework-5.dir/build.make CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.s
+.PHONY : Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.s
 
 # Help Target
 help:
@@ -506,52 +506,52 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... kw565-coursework-5"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/devices/startup.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/devices/startup.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/devices/startup.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/accel.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/accel.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/accel.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/board.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/board.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/board.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fxos_api.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fxos_api.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/fxos_api.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/gpio_pins.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/gpio_pins.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/gpio_pins.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/hardware_init.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/hardware_init.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/hardware_init.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/main.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/main.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/main.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/mma8451_api.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/mma8451_api.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/mma8451_api.s"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/pin_mux.obj"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/pin_mux.i"
-	@echo "... Users/kuiwang/Documents/Assignment5/source/pin_mux.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.s"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.obj"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.i"
+	@echo "... Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.s"
 .PHONY : help
 
 

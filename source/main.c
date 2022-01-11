@@ -583,7 +583,7 @@ int main (void)
 
             yData = (int16_t)((accelData.data.accelYMSB << 8) | accelData.data.accelYLSB);  // Format data
 
-            yAngle = (int8_t)(((yData/100)+90)/8);  // yData is between -9000 and 9000. Divide by 100 to
+            yAngle = (int8_t)(((yData/100)+90)/7);  // yData is between -9000 and 9000. Divide by 100 to
                                                     // convert to degree -90 to 90. Plus 90 to change range
                                                     // to 0 to 180. Then divide by 8 (which is close to 7.5),
                                                     // to generate an index for looking up in angleTable.

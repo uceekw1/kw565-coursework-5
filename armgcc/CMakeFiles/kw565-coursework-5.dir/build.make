@@ -53,10 +53,10 @@ RM = /Users/kuiwang/opt/anaconda3/lib/python3.8/site-packages/cmake/data/CMake.a
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/kuiwang/Documents/Assignment5/armgcc
+CMAKE_SOURCE_DIR = /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/kuiwang/Documents/Assignment5/armgcc
+CMAKE_BINARY_DIR = /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc
 
 # Include any dependencies generated for this target.
 include CMakeFiles/kw565-coursework-5.dir/depend.make
@@ -69,274 +69,274 @@ include CMakeFiles/kw565-coursework-5.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/kw565-coursework-5.dir/flags.make
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj: /Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj -c /Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj: /Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building ASM object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj -c /Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building ASM object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj: /Users/kuiwang/Documents/Assignment5/source/main.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj -c /Users/kuiwang/Documents/Assignment5/source/main.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/main.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/main.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj: /Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj -c /Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj: /Users/kuiwang/Documents/Assignment5/source/accel.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj -c /Users/kuiwang/Documents/Assignment5/source/accel.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/accel.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/accel.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj: /Users/kuiwang/Documents/Assignment5/source/fxos_api.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj -c /Users/kuiwang/Documents/Assignment5/source/fxos_api.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/fxos_api.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/fxos_api.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj: /Users/kuiwang/Documents/Assignment5/source/mma8451_api.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj -c /Users/kuiwang/Documents/Assignment5/source/mma8451_api.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/mma8451_api.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/mma8451_api.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj: /Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj -c /Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj: /Users/kuiwang/Documents/Assignment5/source/hardware_init.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj -c /Users/kuiwang/Documents/Assignment5/source/hardware_init.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/hardware_init.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/hardware_init.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj: /Users/kuiwang/Documents/Assignment5/source/gpio_pins.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj -c /Users/kuiwang/Documents/Assignment5/source/gpio_pins.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/gpio_pins.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/gpio_pins.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj: /Users/kuiwang/Documents/Assignment5/source/pin_mux.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj -c /Users/kuiwang/Documents/Assignment5/source/pin_mux.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/pin_mux.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/pin_mux.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj: /Users/kuiwang/Documents/Assignment5/source/board.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj -c /Users/kuiwang/Documents/Assignment5/source/board.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/source/board.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/source/board.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj: /Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj -c /Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj: /Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj -c /Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj: /Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj -c /Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.s
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj: /Users/kuiwang/Documents/Assignment5/platform/devices/startup.c
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj -c /Users/kuiwang/Documents/Assignment5/platform/devices/startup.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj: CMakeFiles/kw565-coursework-5.dir/flags.make
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj: /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj: CMakeFiles/kw565-coursework-5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj -MF CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj.d -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj -c /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.i"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/Assignment5/platform/devices/startup.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.i
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.i"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c > CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.i
 
-CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.s"
-	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/Assignment5/platform/devices/startup.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.s
+CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.s"
+	/Applications/ARM/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c -o CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.s
 
 # Object files for target kw565-coursework-5
 kw565__coursework__5_OBJECTS = \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj" \
-"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj"
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj" \
+"CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj"
 
 # External object files for target kw565-coursework-5
 kw565__coursework__5_EXTERNAL_OBJECTS =
 
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_misc_utilities.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/main.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_i2c_irq.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/accel.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fxos_api.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/mma8451_api.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/fsl_spi_irq.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/hardware_init.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/gpio_pins.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/pin_mux.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/source/board.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/fsl_debug_console.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/utilities/src/print_scan.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj
-release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/Assignment5/platform/devices/startup.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_misc_utilities.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/gcc/startup_MKL03Z4.S.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/main.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_i2c_irq.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/accel.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fxos_api.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/mma8451_api.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/fsl_spi_irq.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/hardware_init.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/gpio_pins.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/pin_mux.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/source/board.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/fsl_debug_console.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/utilities/src/print_scan.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/MKL03Z4/startup/system_MKL03Z4.c.obj
+release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/platform/devices/startup.c.obj
 release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/build.make
 release/kw565-coursework-5.elf: ../lib/release/libksdk_platform.a
 release/kw565-coursework-5.elf: CMakeFiles/kw565-coursework-5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking C executable release/kw565-coursework-5.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking C executable release/kw565-coursework-5.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/kw565-coursework-5.dir/link.txt --verbose=$(VERBOSE)
-	/Applications/ARM/bin/arm-none-eabi-objcopy -Oihex /Users/kuiwang/Documents/Assignment5/armgcc/release/kw565-coursework-5.elf /Users/kuiwang/Documents/Assignment5/armgcc/release/kw565-coursework-5.hex
-	/Applications/ARM/bin/arm-none-eabi-objcopy -Obinary /Users/kuiwang/Documents/Assignment5/armgcc/release/kw565-coursework-5.elf /Users/kuiwang/Documents/Assignment5/armgcc/release/kw565-coursework-5.bin
+	/Applications/ARM/bin/arm-none-eabi-objcopy -Oihex /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/release/kw565-coursework-5.elf /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/release/kw565-coursework-5.hex
+	/Applications/ARM/bin/arm-none-eabi-objcopy -Obinary /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/release/kw565-coursework-5.elf /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/release/kw565-coursework-5.bin
 
 # Rule to build all files generated by this target.
 CMakeFiles/kw565-coursework-5.dir/build: release/kw565-coursework-5.elf
@@ -347,6 +347,6 @@ CMakeFiles/kw565-coursework-5.dir/clean:
 .PHONY : CMakeFiles/kw565-coursework-5.dir/clean
 
 CMakeFiles/kw565-coursework-5.dir/depend:
-	cd /Users/kuiwang/Documents/Assignment5/armgcc && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/kuiwang/Documents/Assignment5/armgcc /Users/kuiwang/Documents/Assignment5/armgcc /Users/kuiwang/Documents/Assignment5/armgcc /Users/kuiwang/Documents/Assignment5/armgcc /Users/kuiwang/Documents/Assignment5/armgcc/CMakeFiles/kw565-coursework-5.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc /Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/armgcc/CMakeFiles/kw565-coursework-5.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/kw565-coursework-5.dir/depend
 

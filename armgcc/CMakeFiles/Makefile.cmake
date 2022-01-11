@@ -12,7 +12,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.22.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.0/CMakeSystem.cmake"
   "CMakeLists.txt"
-  "/Users/kuiwang/Documents/Assignment5/tools/cmake_toolchain_files/armgcc.cmake"
+  "/Users/kuiwang/Documents/kw565_cw5_FromGit/kw565-coursework-5/tools/cmake_toolchain_files/armgcc.cmake"
   "/Users/kuiwang/opt/anaconda3/lib/python3.8/site-packages/cmake/data/CMake.app/Contents/share/cmake-3.22/Modules/CMakeASMInformation.cmake"
   "/Users/kuiwang/opt/anaconda3/lib/python3.8/site-packages/cmake/data/CMake.app/Contents/share/cmake-3.22/Modules/CMakeCInformation.cmake"
   "/Users/kuiwang/opt/anaconda3/lib/python3.8/site-packages/cmake/data/CMake.app/Contents/share/cmake-3.22/Modules/CMakeCXXInformation.cmake"
